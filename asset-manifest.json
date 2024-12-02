@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/multi-field-registration-from-reactjs/static/css/main.89114342.css",
+    "main.js": "/multi-field-registration-from-reactjs/static/js/main.ba0b2a77.js",
+    "static/js/453.b1d7b4c0.chunk.js": "/multi-field-registration-from-reactjs/static/js/453.b1d7b4c0.chunk.js",
+    "index.html": "/multi-field-registration-from-reactjs/index.html",
+    "main.89114342.css.map": "/multi-field-registration-from-reactjs/static/css/main.89114342.css.map",
+    "main.ba0b2a77.js.map": "/multi-field-registration-from-reactjs/static/js/main.ba0b2a77.js.map",
+    "453.b1d7b4c0.chunk.js.map": "/multi-field-registration-from-reactjs/static/js/453.b1d7b4c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89114342.css",
+    "static/js/main.ba0b2a77.js"
+  ]
+}
